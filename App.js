@@ -39,15 +39,7 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
-              <Text style={styles.sectionTitle}>Hello :)</Text>
+              <Text style={styles.sectionTitle}>ASDF ahhahah</Text>
             </View>
           </View>
         </ScrollView>
